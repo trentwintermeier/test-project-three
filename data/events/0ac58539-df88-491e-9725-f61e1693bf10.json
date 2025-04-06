@@ -1,0 +1,29 @@
+{
+  "audiovisual_files": {
+    "c15b1ac6-5b60-4d01-adca-0c9ff9c261f3": {
+      "label": "event one",
+      "is_offline": false,
+      "file_url": "https://dn790004.ca.archive.org/0/items/slow-motions-template/1.%207252983953018195201.mp4",
+      "duration": 15,
+      "caption_set": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "item_type": "Audio",
+  "label": "test event",
+  "created_at": "2025-04-06T16:56:02.384Z",
+  "created_by": "trentwintermeier",
+  "updated_at": "2025-04-06T16:56:02.384Z",
+  "updated_by": "trentwintermeier"
+}
